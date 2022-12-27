@@ -1,0 +1,43 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "Честный вор",
+      "author": "Ф.М. Достоевский",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Скотный двор",
+      "author": "Джордж Оруэл",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Евгений Онегин",
+      "author": "А.С.Пушкин",
+      "pub_date": "2020-09-14"
+    }
+  }
+
+
+
+
+
+]
